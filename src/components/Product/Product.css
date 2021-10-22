@@ -1,0 +1,40 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+}
+.productImg{
+    padding: 10px;
+    position: relative;
+}
+.productImg img {
+
+    margin: 0 auto;
+  }
+.addCart{
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+    font-size: 18px;
+   background-color: goldenrod;
+   border: none;
+   border-radius: 3px;
+   transition: .5s;
+
+}
+.addCart:hover{
+    background-color: rgb(255, 196, 0);
+    color: black;
+}
+.shoppingCart{
+    margin-right: 5px;
+}
+.productDetails h2{
+    color: blue;
+}
+.rating-div{
+    display: flex;
+}
+.rating{
+    margin-left: 30px;
+}

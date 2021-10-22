@@ -1,0 +1,10 @@
+.bawser{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    background-color: rgb(248, 246, 244);
+    box-shadow: 3px 6px 20px rgb(218, 213, 202);
+    padding: 15px;
+}
